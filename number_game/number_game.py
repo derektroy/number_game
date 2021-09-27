@@ -10,6 +10,7 @@
 #
 """
 import random
+import math
 # Input Lowest Number
 lowest = int(input("Enter Lowest Number : "))
 
